@@ -1,0 +1,19 @@
+<html>
+
+<frameset border="0">
+
+
+<frameset cols="60%,40%" border="0">
+<frameset rows="70%,30%" border="0">
+<frameset cols="*,50%,*" border=0>
+<frame src="Rogue Starter Acoustic Guitar.html"></frame>
+<frame src="drum display frame.html" name="dispgitarimg" resize frameborder="no" border="0" framespacing="0" MARGINWIDTH=0px MARGINHEIGHT=0px>
+<frame> </frame>
+</frameset>
+<frame src="drum display.html" resize frameborder="no" border="0" framespacing="0">
+</frameset>
+<frame src="drum review.html">
+</frameset>
+
+
+</html>
